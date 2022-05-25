@@ -1,1 +1,1 @@
-# ctd-esp-front2-aula25-base
+# ctd-esp-fe2-clase25-graphql-query-sandbox
